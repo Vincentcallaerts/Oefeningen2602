@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31005.135
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Oefeningen2602", "Oefeningen2602\Oefeningen2602.csproj", "{93EE0F49-368B-455D-A2D1-DDE03179588B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Oefening2", "Oefening2\Oefening2.csproj", "{BEB9F3BB-2D56-4551-949F-EBB89A902910}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{93EE0F49-368B-455D-A2D1-DDE03179588B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{93EE0F49-368B-455D-A2D1-DDE03179588B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{93EE0F49-368B-455D-A2D1-DDE03179588B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{93EE0F49-368B-455D-A2D1-DDE03179588B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BEB9F3BB-2D56-4551-949F-EBB89A902910}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BEB9F3BB-2D56-4551-949F-EBB89A902910}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BEB9F3BB-2D56-4551-949F-EBB89A902910}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BEB9F3BB-2D56-4551-949F-EBB89A902910}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {EFC5D8AE-EA1E-47F2-941F-236DB1BD2869}
+	EndGlobalSection
+EndGlobal
